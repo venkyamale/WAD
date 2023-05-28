@@ -1,0 +1,13 @@
+command in terminal for 
+
+1.npm install -g express-generator
+2.express my-app
+3.cd my-app
+4.npm install
+
+firstly start local 3000 then following command
+ 
+5.npm start
+
+
+terminal command : index.html -->> <h1> hello world -</h1>
